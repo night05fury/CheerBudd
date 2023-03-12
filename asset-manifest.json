@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CheerBudd/static/css/main.0f70a9c2.css",
+    "main.js": "/CheerBudd/static/js/main.179c1d72.js",
+    "index.html": "/CheerBudd/index.html",
+    "main.0f70a9c2.css.map": "/CheerBudd/static/css/main.0f70a9c2.css.map",
+    "main.179c1d72.js.map": "/CheerBudd/static/js/main.179c1d72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f70a9c2.css",
+    "static/js/main.179c1d72.js"
+  ]
+}
