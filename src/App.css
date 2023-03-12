@@ -9,7 +9,7 @@
   height: 100%;
   /* //background-color: aquamarine; */
   /* background: linear-gradient(rgba(0,0,0,0.3)),url('https://www.pixelstalk.net/wp-content/uploads/2016/08/Desktop-Best-And-Website-background-2560x1600.jpg'); */
-  background: url('https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+  background: url('assests/Background.jpg');
   background-size: cover;
   background-position: center;
   display: flex;
