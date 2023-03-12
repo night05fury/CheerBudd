@@ -13,7 +13,10 @@ class App extends React.Component {
   }
 
   fetchAdvice = () => {
-    axios.get('https://api.adviceslip.com/advice')
+  
+    const url=' 	https://api.adviceslip.com/advice/'
+   
+    axios.get(url)
       .then((response) => {
         const { advice } = response.data.slip;
 

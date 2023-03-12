@@ -17,7 +17,7 @@
   justify-content: center;
 }
 .card{
-  background-color: rgb(239, 248, 246);
+  background-color: rgb(144, 151, 151);
   width: 70%;
   height: 40%;
   display: flex;
@@ -26,7 +26,7 @@
   flex-direction: column;
   border-radius: 20px;
   backdrop-filter: blur(14px);
-  opacity: 0.6;
+  opacity: 0.5;
   padding: 2%px;
   box-shadow: 10px 10px;
 }
@@ -35,6 +35,7 @@
   align-items: center;
   height: 582px;
   opacity: 1;
+  
 
 }
 .button {
@@ -49,14 +50,14 @@
   text-transform: uppercase;
   height: 200px;
   width: 210px;
-  opacity: 1;
-  background-color: #edf5f5;
-  border: 1px solid rgba(0, 5, 13, 0.6);
+  opacity: 0.8;
+  background-color: #e3eded;
+  border: 3px solid rgba(0, 5, 13, 0.6);
 }
   
 .button span {
   color: #070707;
-  font-size: 12px;
+  font-size: 20px;
   font-weight: 500;
   letter-spacing: 0.7px;
 }
