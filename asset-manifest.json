@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/CheerBudd/static/css/main.e5dae0b6.css",
-    "main.js": "/CheerBudd/static/js/main.c6c30596.js",
+    "main.js": "/CheerBudd/static/js/main.4e79299d.js",
     "static/media/Background.jpg": "/CheerBudd/static/media/Background.2b4f63c41218b85facaf.jpg",
     "index.html": "/CheerBudd/index.html",
     "main.e5dae0b6.css.map": "/CheerBudd/static/css/main.e5dae0b6.css.map",
-    "main.c6c30596.js.map": "/CheerBudd/static/js/main.c6c30596.js.map"
+    "main.4e79299d.js.map": "/CheerBudd/static/js/main.4e79299d.js.map"
   },
   "entrypoints": [
     "static/css/main.e5dae0b6.css",
-    "static/js/main.c6c30596.js"
+    "static/js/main.4e79299d.js"
   ]
 }
