@@ -14,7 +14,7 @@ class App extends React.Component {
 
   fetchAdvice = () => {
   
-    const url=' 	https://api.adviceslip.com/advice/'
+    const url=' 	https://api.adviceslip.com/advice'
    
     axios.get(url)
       .then((response) => {
